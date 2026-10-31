@@ -1,6 +1,6 @@
 # 🌐 Personal Profile Webpage
 
-## 🌐 Live Demo
+##  Live Demo
 Check out the live website here: [Personal Profile Website](https://rishikathallapally.github.io/profile-webpage/)
 
 A simple, beginner-friendly personal profile webpage built using **HTML5 and CSS3 only**. This project was created as part of my journey into web development to practise the fundamentals of HTML and CSS by building a webpage from scratch.
